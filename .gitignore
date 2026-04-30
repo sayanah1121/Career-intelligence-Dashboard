@@ -1,0 +1,13 @@
+# Environments
+venv/
+.env
+
+# Data (Keep the structure but not the files)
+data/1_bronze_raw/*.json
+data/2_silver_enriched/*.json
+data/3_gold_standard/*.csv
+data/3_gold_standard/*.parquet
+
+# Python
+__pycache__/
+*.pyc

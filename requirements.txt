@@ -1,0 +1,6 @@
+google-genai
+groq
+pyspark
+requests
+python-dotenv
+pandas
